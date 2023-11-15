@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mohitjangra2196
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning DEVOPS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me INSTAGRAM - MOHITJANGRA2196
 
 <!---
 Mohitjangra2196/Mohitjangra2196 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
